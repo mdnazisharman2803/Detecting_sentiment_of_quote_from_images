@@ -88,17 +88,17 @@ Sentiment analysis is an emerging technique and the social network content can h
 <table align="center">
 	<tr>
 		<td>
-		<a href="https://github.com/mdnazisharman2803"><img  src="https://user-images.githubusercontent.com/98539013/192952215-c2bf7950-93eb-4cf5-80ae-0b3dc95b3754.png" width=200px height=150px /></a></br> <h4  style="color:blue">Md Nazish Arman</h4><br>
+		<a href="https://github.com/mdnazisharman2803"><img  src="https://user-images.githubusercontent.com/98539013/192952215-c2bf7950-93eb-4cf5-80ae-0b3dc95b3754.png" width=150px height=150px /></a></br> <h4  style="color:blue">Md Nazish Arman</h4><br>
 		</td>
     <td>
-		<a href=""><img src="" width=150px height=150px /></a></br> <h4 style="color:limegreen;"></h4><br/>
+		<a href="https://github.com/mohdaakib"><img src="https://user-images.githubusercontent.com/98539013/215688541-e6438b5a-ab50-4088-b73f-3985a4e64402.png" width=150px height=150px /></a></br> <h4 style="color:limegreen;">Mohd Aakib</h4><br/>
 		</td>
 	</tr>
 </table>
 <br>
 
 ## Working Video
-- https://user-images.githubusercontent.com/98539013/215455632-a00deb77-5ddf-46fd-8017-d78d4d70290a.mp4
+https://user-images.githubusercontent.com/98539013/215455632-a00deb77-5ddf-46fd-8017-d78d4d70290a.mp4
 
 ## References
 
